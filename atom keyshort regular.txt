@@ -1,0 +1,18 @@
+ctrl+G 跳转到某行
+F11 全屏
+ctrl+L 选定一行
+ctrl+shift+D 复制一行
+ctrl+shift+K 删除一行
+ctrl+/ 注释一行
+ctrl+tab 切换标签页
+ctrl+上 选中行上移
+ctrl+R 进入变量、函数跳转面板
+ctrl+D 选中本文档中相同的字符串
+ctrl+r 在方法之间切换
+ctrl+shift+鼠标选择/-> 选中多行
+ctrl+alt+上/下 选择多行进行操作
+全局搜索 ctrl+shift+F (在工程下)
+ctrl+F 局部搜索
+ctrl+T 搜索文件
+alt+ctrl+shift+{ 代码块折叠
+alt+ctrl+shift+} 代码块打开折叠
